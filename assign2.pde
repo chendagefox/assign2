@@ -137,7 +137,7 @@ void draw() {
         
         n = n % 121;
         n += 1;
-        println(n);
+        // println(n);
         if (n > 120){
             Ey2 = floor(y);
             Ex2 = 30;
